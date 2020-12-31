@@ -17,5 +17,5 @@ A To-Do list application created using React. Written using Visual Studio Code.
 ## Other:
 
 This is my first attempt at front-end development, React, and Visual Studio Code.   
-Default "to-do" items are retrieved from "https://jsonplaceholder.typicode.com/todos"   
+Default "to-do" items are retrieved from "https://jsonplaceholder.typicode.com/todos".   
 ReadMe written in Markdown.

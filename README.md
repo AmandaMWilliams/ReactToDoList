@@ -22,5 +22,5 @@ ReadMe written in Markdown.
 
 ## To Run:  
 
-[npm install] - download dependencies  
-[npm start -- open] - start application
+[ npm install ] - download dependencies  
+[ npm start -- open ] - start application

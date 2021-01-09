@@ -2,7 +2,7 @@
 
 ## Premise:
 
-A To-Do list application created using React. Written using Visual Studio Code.
+A To-Do list application created using React. Written using Visual Studio Code (VS Code).
 
 ## Elements:
 
